@@ -1,6 +1,6 @@
 {
-  "name": "@y/protocols",
-  "version": "1.0.6-3",
+  "name": "y-protocols-pncounter",
+  "version": "1.0.0",
   "description": "Yjs encoding protocols",
   "type": "module",
   "funding": {
@@ -70,7 +70,9 @@
     }
   },
   "dependencies": {
+    "@y/protocols": "github:JoniDervishi1/y-protocols#pncounter",
     "lib0": "^0.2.85",
+    "y-protocols-pncounter": "^1.0.0",
     "yjs-pncounter": "^1.0.0"
   },
   "devDependencies": {
