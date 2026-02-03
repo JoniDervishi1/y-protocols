@@ -86,7 +86,7 @@
     "typescript": "^5.8.3"
   },
   "peerDependencies": {
-    "@y/y": "^14.0.0-16 || ^14"
+    "y-protocols-pncounter": "^1.0.0"
   },
   "engines": {
     "npm": ">=8.0.0",
