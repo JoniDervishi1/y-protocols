@@ -72,7 +72,6 @@
   "dependencies": {
     "@y/protocols": "github:JoniDervishi1/y-protocols#pncounter",
     "lib0": "^0.2.85",
-    "y-protocols-pncounter": "^1.0.0",
     "yjs-pncounter": "^1.0.0"
   },
   "devDependencies": {
@@ -86,7 +85,7 @@
     "typescript": "^5.8.3"
   },
   "peerDependencies": {
-    "y-protocols-pncounter": "^1.0.0"
+    "yjs-pncounter": "^1.0.0"
   },
   "engines": {
     "npm": ">=8.0.0",
