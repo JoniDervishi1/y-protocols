@@ -1,5 +1,5 @@
 
-import * as Y from 'yjs-pncounter' // eslint-disable-line
+import * as Y from 'yjs-ypcounter' // eslint-disable-line
 import * as encoding from 'lib0/encoding'
 import * as decoding from 'lib0/decoding'
 

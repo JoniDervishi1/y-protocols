@@ -1,5 +1,5 @@
 
-import * as Y from 'yjs-pncounter'
+import * as Y from 'yjs-ypcounter'
 import * as t from 'lib0/testing'
 import * as awareness from './awareness'
 
